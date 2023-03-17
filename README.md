@@ -26,17 +26,8 @@
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
 <a href="https://vitejs.dev/"><code><img height="20" src="./images/vite.png"></code></a>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="margin-inline: 0.5em;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ch1ny&show_icons=true" />
-  </div>
-  <div style="margin-inline: 0.5em;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch1ny&layout=compact&langs_count=8&exclude_repo=ch1ny.github.io,kira-hexo-docs,ch1ny,hexo-tag-aplayer,WebGAL,SDUCourseSelectionScript,regulus-ui,Typark,FIT&hide=Inno%20Setup,ejs,css,html" />
-  </div>
-  <div style="margin-inline: 0.5em;">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=27905679&theme=omni" />
-  </div>
-</div>
+![My github stats](https://github-readme-stats.vercel.app/api?username=ch1ny&show_icons=true)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch1ny&layout=compact&langs_count=8&exclude_repo=ch1ny.github.io,kira-hexo-docs,ch1ny,hexo-tag-aplayer,WebGAL,SDUCourseSelectionScript,regulus-ui,Typark,FIT&hide=Inno%20Setup,ejs,css,html)
 
 ### My Projects
 
