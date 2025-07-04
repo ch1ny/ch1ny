@@ -1,16 +1,16 @@
 ### 初次见面 👋🏻
 
-* 我的名字是樊晨煜，花名启煜。
+* 我的名字是樊晨煜。
 * 欢迎访问 [我的个人网站](https://kira.host)
 * 是一个前端小菜鸟 🐣 对计算机充满热情
-* 就读于 ~~**世界一流大学**~~ 山东大学的软件学院，目前已拿到蚂蚁金服的 offer 🐜
+* 毕业于 ~~**世界一流大学**~~ 山东大学的软件学院，就职于蚂蚁 🐜
 * 空闲时我会做什么：`Random("写代码", "玩电脑游戏", "看动漫")`
 * 信仰 <span style="color: red;">**共产主义**</span> <span style="color: gold;">**☭**</span>
 * 期待与你成为朋友 🤟🏻
 
 ### Hi there! 👋🏻
 * This is **`Kira`** ✨ A freshman in front-end programming 🐣
-* Majoring in the **Software Engine of Shandong University** 🏔︎ Working in the **Ant Group** 🐜
+* Majored in the **Software Engine of Shandong University** 🏔︎ Working in the **Ant Group** 🐜
 * I like `Random("coding", "playing computer games", "watching bangumi")` while free
 * Believing in <span style="color: red;">**Communism**</span> <span style="color: gold;">**☭**</span>
 * Looking forward to becoming friends with you 🤟🏻
